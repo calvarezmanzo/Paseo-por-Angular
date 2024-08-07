@@ -13,14 +13,15 @@
 
 
 ### Contenido:
-* Iniciar proyecto Angular.
-* CLI de Angular.
-* SPA (Single page application).
-* Formularios - Formularios Reactivos.
-* Conceptos - tarea.
-
+* Que es Backend y servicios API REST?
+* Que es Swagger.
+* Introduccion a Node.js y express
+* Creación de proyecto Node.js
+* Manejo de rutas y controladores
+* Middleware y Gestión de Errores
+  
 ### Repo:
-* En este repositorio encontrarán los archivos creados durante la clase, incluyendo el dashboard en Angular que clonamos.
+* En este repositorio encontrarán los archivos creados durante la clase, al momento de clonarlo generar un npm i
 
 ---
 #### Te compartimos link en el cual vamos a ir subiendo las herramienta a utilizar.
